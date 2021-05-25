@@ -1,4 +1,4 @@
-# MaxMSP-Computer-Keyboard
+# MaxMSP Computer Keyboard ⌨️
 Max Patch to interface with a computer keyboard.
 made by Josh Stovall http://joshstovall.com
 
